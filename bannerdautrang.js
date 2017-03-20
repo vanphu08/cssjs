@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/EYg0pM' target='_blank'><img src='https://cdn02.static-adayroi.com/resize/710_710/100/0/2017/02/20/148756026286_9905357.jpg' width='500px'/><br/1000 Bộ trang sức ngọc trai thật</Bảo hành đến 5 năm, thương hiệu uy tín hàng đầu Hàn Quốc<h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://mdstoryfashion.com' target='_blank'><img src='https://www.google.com.vn/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwifjqerjuXSAhXDn5QKHdW_CcoQjRwIBw&url=http%3A%2F%2Fwww.bluenile.com%2F14k-white-gold-freshwater-amethyst-earrings_52786&bvm=bv.150120842,d.dGo&psig=AFQjCNFWZDWqnmpE7N-fPMzfmunGvGvfUA&ust=1490100249256787' width='500px'/><br/1000 Bộ trang sức ngọc trai thật</Bảo hành đến 5 năm, thương hiệu uy tín hàng đầu Hàn Quốc<h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
