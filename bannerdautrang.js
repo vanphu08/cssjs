@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/EYg0pM' target='_blank'><img src='https://cdn02.static-adayroi.com/resize/710_710/100/0/2017/02/20/148756026286_9905357.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/EYg0pM' target='_blank'><img src='https://cdn02.static-adayroi.com/resize/710_710/100/0/2017/02/20/148756026286_9905357.jpg' width='500px'/><br/1000 Bộ trang sức ngọc trai thật</Bảo hành đến 5 năm, thương hiệu uy tín hàng đầu Hàn Quốc<h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
