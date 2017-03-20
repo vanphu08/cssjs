@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://mdstoryfashion.com' target='_blank'><img src='https://www.google.com.vn/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiPjtufkuXSAhXLi5QKHe1qBs4QjRwIBw&url=http%3A%2F%2Fshreve.asia%2Fblog%2Fcategory%2FMikimoto&bvm=bv.150120842,bs.2,d.dGo&psig=AFQjCNGUgOSkwqcPjBVVzVVdbAGTlhZKpg&ust=1490101332677230' width='500px'/><br/1000 Bộ trang sức ngọc trai thật</Bảo hành đến 5 năm, thương hiệu uy tín hàng đầu Hàn Quốc<h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://mdstoryfashion.com' target='_blank'><img src='http://shreve.asia/blog/UserFiles/image/24_%20Mikimoto(1).jpg' width='500px'/><br/1000 Bộ trang sức ngọc trai thật</Bảo hành đến 5 năm, thương hiệu uy tín hàng đầu Hàn Quốc<h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
